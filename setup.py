@@ -1,9 +1,6 @@
 # -*- coding: utf-8 -*-
 import setuptools
 
-with open("README.md", encoding="utf-8") as f:
-    long_description = f.read()
-
 setuptools.setup(
     name="pyexiv2",
     version="1.2.2",
